@@ -32,7 +32,7 @@ func main()  {
 					return fmt.Errorf("where text??????")
 				}
 
-				fmt.Println("riddle me this batman if quizzes are quizzical then what are tests: %v", test)
+				fmt.Printf("riddle me this batman if quizzes are quizzical then what are tests: %v", test)
 
 				return nil
 			},
